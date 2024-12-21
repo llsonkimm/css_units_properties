@@ -1,0 +1,41 @@
+body{
+    font-size: 62.5%;
+    font-family:'Courier New', Courier, monospace
+}
+.unit1{
+    font-size: 16px;
+    line-height: 2.5em;
+}
+
+p.unit2{
+    font-size: 1.6em;
+}
+
+p.unit2::first-letter{
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.unit3 h1{
+    margin: 0.5in;
+}
+
+.unit3 h2{
+    line-height: 3cm;
+}
+
+.unit3 h3{
+    word-spacing: 4mm;
+}
+
+.unit3 h4{
+    font-size: 12pt;
+}
+
+.unit3 h5{
+    font-size: 1pc;
+}
+
+.unit3 h6{
+    font-size: 12px;
+}
